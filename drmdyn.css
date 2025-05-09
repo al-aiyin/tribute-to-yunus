@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+
+.section-1 {
+    width: 1000px;
+    height: 500px;
+    margin-left: 200px;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+.drimg{
+    width: 500px;
+    height: 350px;
+}
+
+.section-2{
+    margin-left: 200px;
+    margin-right: 50px;
+}
+
+.section-3{
+    margin-top: 50px;
+    margin-left: 700px;
+}
